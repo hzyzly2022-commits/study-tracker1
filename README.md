@@ -22,6 +22,7 @@ This is my first project during my AI + Software Engineering learning journey.
 - Git
 - GitHub
 
+
 ## 📅 Development Log
 
 ### v0.1
@@ -37,3 +38,17 @@ This is my first project during my AI + Software Engineering learning journey.
 - Add database support
 - Build web interface
 - Integrate AI assistant
+## Development Diary
+### Day 1
+
+Completed:
+
+- Created project structure
+- Learned basic Git workflow
+- Created first Python file
+- Uploaded project to GitHub
+- Created project documentation
+
+Problems solved:
+
+- Learned that files must be saved by"ctrl + s" before Git can detect changes
